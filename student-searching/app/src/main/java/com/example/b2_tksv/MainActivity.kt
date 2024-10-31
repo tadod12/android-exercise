@@ -35,9 +35,7 @@ class MainActivity : AppCompatActivity() {
 
         // Danh sách sinh viên ban đầu
         studentList = listOf(
-            Student("Ha Son Duong", "20115554"),
-            Student("Do Thanh Dat ", "20198883"),
-            Student("Quach Dinh Duong", "20129876")
+            Student("Do Thanh Dat ", "20215560"),
         )
 
         // Sao chép danh sách ban đầu vào filteredList
