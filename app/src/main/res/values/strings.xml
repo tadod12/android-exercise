@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple List</string>
+    <string name="header">Simple List</string>
+    <string name="odd">Odd</string>
+    <string name="even">Even</string>
+    <string name="square">Square</string>
+    <string name="show">SHOW</string>
+    <string name="result">Result</string>
+    <string name="hint">Enter a number</string>
+    <string name="invalid_input">Invalid Input</string>
+</resources>
