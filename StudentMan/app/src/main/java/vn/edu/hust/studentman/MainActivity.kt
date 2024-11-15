@@ -64,6 +64,7 @@ class MainActivity : AppCompatActivity() {
             // show notification
             Toast.makeText(this, "Student info changed successfully", Toast.LENGTH_SHORT).show()
           }
+          .setNegativeButton("Cancel", null)
           .show()
       },
       onRemoveClick = {position ->
