@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">class2111</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="add_student">add student</string>
+</resources>
